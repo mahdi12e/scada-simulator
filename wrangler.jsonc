@@ -8,6 +8,6 @@
   "d1_databases": [{
     "binding": "DB",
     "database_name": "scada-simulator-db",
-    "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+    "database_id": "bf2b688e-2d5b-47b3-b450-91fba4e29baf"
   }]
 }
